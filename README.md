@@ -1,7 +1,8 @@
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
 ## Preview
-![Bike Sharing Dashboard Streamlit Preview]
+![Bike Sharing Dashboard Streamlit Preview](https://github.com/abeaar/bike-rental-analysis/assets/140606965/d94d942f-4454-4d91-9e70-46c039074e0c)
+
 
 ## Project Analisis Data
 
